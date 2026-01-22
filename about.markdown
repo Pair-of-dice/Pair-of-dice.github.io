@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p>I am Keon Cachia, I am currently student at MCAST getting an advanced diploma in IT(software development).
+IT deeply interests me and I am especially interested in free(as in freedom) software.</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Nationality: Maltese
+- Age:17 years old
+- Hobbies: Drawing pixel art,Linux "ricing" and learning about Unix-like systems
 
 
-[jekyll-organization]: https://github.com/jekyll
