@@ -29,10 +29,16 @@ twitter_username: None
 github_username:  Pair-of-dice
 
 # Build settings
+# Local theme
 theme: minima
 plugins:
   - jekyll-feed
-
+sass:
+  style: expanded
+  sass_dir: _sass
+  sourcemap: always
+  quiet_deps: false
+  verbose: false
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
