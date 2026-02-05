@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My new project in Lua"
-date:   2025-01-26 16:08 +0100
+date:   2026-01-26 16:08 +0100
 categories: programming
 ---
 It's been some time since I worked on a personal project. I've been mainly
