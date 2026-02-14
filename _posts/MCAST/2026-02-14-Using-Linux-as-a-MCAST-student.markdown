@@ -2,7 +2,7 @@
 layout: post
 title: "Using Linux as a MCAST student: Trials and Tribulations"
 date:   2026-02-14 13:50 +0100
-categories: MCAST
+categories: MCAST Linux
 ---
 
 At MCAST, I opted to use Linux for my studies. This meant I had to come with

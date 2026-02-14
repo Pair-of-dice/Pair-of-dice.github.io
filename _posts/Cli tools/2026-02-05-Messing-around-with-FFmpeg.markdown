@@ -2,7 +2,7 @@
 layout: post
 title: "Messing around with FFmpeg"
 date:   2026-02-05 16:08 +0100
-categories: cli tools
+category: Cli tools
 ---
 
 I decided to learn some FFmpeg. I was interested in how to encode videos to
